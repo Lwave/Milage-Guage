@@ -1,0 +1,12 @@
+C:\Users\L3sI3yWvvyn3\Documents\Visual Studio 2017\Projects\Updated student sample programs\Updated student sample programs\Gas Mileage\bin\Debug\Gas Mileage.exe.config
+C:\Users\L3sI3yWvvyn3\Documents\Visual Studio 2017\Projects\Updated student sample programs\Updated student sample programs\Gas Mileage\bin\Debug\Gas Mileage.exe
+C:\Users\L3sI3yWvvyn3\Documents\Visual Studio 2017\Projects\Updated student sample programs\Updated student sample programs\Gas Mileage\bin\Debug\Gas Mileage.pdb
+C:\Users\L3sI3yWvvyn3\Documents\Visual Studio 2017\Projects\Updated student sample programs\Updated student sample programs\Gas Mileage\bin\Debug\Gas Mileage.xml
+C:\Users\L3sI3yWvvyn3\Documents\Visual Studio 2017\Projects\Updated student sample programs\Updated student sample programs\Gas Mileage\obj\Debug\Gas Mileage.vbprojAssemblyReference.cache
+C:\Users\L3sI3yWvvyn3\Documents\Visual Studio 2017\Projects\Updated student sample programs\Updated student sample programs\Gas Mileage\obj\Debug\Gas_Mileage.Form1.resources
+C:\Users\L3sI3yWvvyn3\Documents\Visual Studio 2017\Projects\Updated student sample programs\Updated student sample programs\Gas Mileage\obj\Debug\Gas_Mileage.Resources.resources
+C:\Users\L3sI3yWvvyn3\Documents\Visual Studio 2017\Projects\Updated student sample programs\Updated student sample programs\Gas Mileage\obj\Debug\Gas Mileage.vbproj.GenerateResource.cache
+C:\Users\L3sI3yWvvyn3\Documents\Visual Studio 2017\Projects\Updated student sample programs\Updated student sample programs\Gas Mileage\obj\Debug\Gas Mileage.vbproj.CoreCompileInputs.cache
+C:\Users\L3sI3yWvvyn3\Documents\Visual Studio 2017\Projects\Updated student sample programs\Updated student sample programs\Gas Mileage\obj\Debug\Gas Mileage.exe
+C:\Users\L3sI3yWvvyn3\Documents\Visual Studio 2017\Projects\Updated student sample programs\Updated student sample programs\Gas Mileage\obj\Debug\Gas Mileage.xml
+C:\Users\L3sI3yWvvyn3\Documents\Visual Studio 2017\Projects\Updated student sample programs\Updated student sample programs\Gas Mileage\obj\Debug\Gas Mileage.pdb
